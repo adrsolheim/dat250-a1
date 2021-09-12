@@ -44,6 +44,8 @@ private List<CreditCard> creditCardList;
 ```
 
 ### Database
+Database tables can be listed using `java org.apache.derby.tools.ij` with the command `show tables;`
+![](exp2-tables.png)
 
 The code checks if the database is empty and in that case it creates some objects and persist them to the database.
 ![](exp2-terminal.png)
