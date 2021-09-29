@@ -7,4 +7,8 @@ The assignment went pretty smooth with just some minor hiccups (syntax errors an
 ### Code
 ![](exp4-code.png)
 
-Link to [code](sparkjava-counter)
+## Link to code
+
+- [Spark routes](sparkjava-counter/src/main/java/no/hvl/dat110/rest/counters/App.java)
+- [Model](sparkjava-counter/src/main/java/no/hvl/dat110/rest/model/Todo.java)
+- [DAO](sparkjava-counter/src/main/java/no/hvl/dat110/rest/dao)
