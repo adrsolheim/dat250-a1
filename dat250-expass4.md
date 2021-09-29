@@ -7,4 +7,4 @@ The assignment went pretty smooth with just some minor hiccups (syntax errors an
 ### Code
 ![](exp4-code.png)
 
-Link to [code](sparkcounter-counter)
+Link to [code](sparkjava-counter)
