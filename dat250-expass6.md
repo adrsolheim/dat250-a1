@@ -10,4 +10,4 @@ Except for some syntax errors here and there the React experiment went pretty sm
 ## Link to code
 
 - [Experiment 1: Modell-View-Controller Web Applications](mvc-webapp/src/main/java/no/hvl/dat250/springboot)
-- [Experiment 2: Single-page Web Applications](react-tictactoe)
+- [Experiment 2: Single-page Web Applications](react-tictactoe/src)
